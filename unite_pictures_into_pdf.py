@@ -169,9 +169,9 @@ def unite_pictures_into_pdf(outputPdfName, pathToSavePdfTo, pathToPictures, spli
 #----------------------------------------------------------------------
 if __name__ == "__main__":
    
-    outputPdfName = "pdf_with_pictures"
-    pathToSavePdfTo = "D:\\pictures"
-    pathToPictures = "D:\\pictures"
+    outputPdfName = "ALL_IN_ONE_PDF"
+    pathToSavePdfTo = "C:\Users\larch\Desktop\MEGA\3 - Files\Solo Leveling"
+    pathToPictures = "C:\Users\larch\Desktop\MEGA\3 - Files\Solo Leveling"
     splitType = "picture"
     numberOfEntitiesInOnePdf = 1
     listWithImagesExtensions = ["png", "jpg"]
